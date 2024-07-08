@@ -16,9 +16,9 @@ I am a professional in System Engineering, willing to provide computer solutions
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <br>
-### ⚙️ &nbsp;GitHub Analytics
+<h3>### ⚙️ &nbsp;GitHub Analytics</h3>
 
-<p align="center">
+<p >
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gomez-Luis-Alfredo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gomez-Luis-Alfredo&layout=compact&langs_count=8&theme=algolia"/>
