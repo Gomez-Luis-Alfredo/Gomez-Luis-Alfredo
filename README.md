@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I´m Luis 👋</h1> 
 I am a professional in System Engineering, willing to provide computer solutions. Ability to adapt to any situation that may arise, ease of relating to different types of people, fulfilling different responsibilities, proactive, orderly, constantly updating myself with advances in my profession, having many years of experience in my field, managing problems, programming knowledge, expands experience in networks and communications.
 <br>
+<a href="https://www.linkedin.com/in/luis-g%C3%B3mez-inform%C3%A1tico-244225259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <h3 align="left">### 🛠 &nbsp;Tech Stack</h3>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
